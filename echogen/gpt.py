@@ -169,7 +169,7 @@ class Block(nn.Module):
         return x
 
 class GPT(nn.Module):
-    """ character level language model using an autoregressive transformer encoder only architecture """
+    """ character level language model using an autoregressive transformer decoder only architecture """
 
     def __init__(self):
         super().__init__()
