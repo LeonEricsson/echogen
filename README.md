@@ -3,12 +3,12 @@ Auto-regressive generator which takes a text file as input, where each line is a
 
 Currently supported models:
 
-bigram, following Daniel Jurafsky & James H. Martin 2021
-MLP, following Bengio et al. 2003
-CNN, following DeepMind WaveNet 2016
-Future models:
+bigram, following Daniel Jurafsky & James H. Martin 2021. <br /> 
+MLP, following Bengio et al. 2003  <br /> 
+CNN, following DeepMind WaveNet 2016. <br /> 
+Transformer, following Vaswani et al. 2017. <br /> 
 
-RNN, following Mikolov et al. 2010
-LSTM, following Graves et al. 2014
-GRU, following Kyunghyun Cho et al. 2014
-Transformer, following Vaswani et al. 2017
+Future models:
+RNN, following Mikolov et al. 2010  <br /> 
+LSTM, following Graves et al. 2014. <br /> 
+GRU, following Kyunghyun Cho et al. 2014. <br /> 
